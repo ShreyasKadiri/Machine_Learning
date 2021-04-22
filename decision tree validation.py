@@ -36,7 +36,6 @@ for depth in range(1, 25):
  'density',
  'pH',
  'sulphates',
-19
  'alcohol'
  ]
  # fit the model on given features
